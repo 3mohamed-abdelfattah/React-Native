@@ -8,7 +8,7 @@
 
 ![image](https://github.com/user-attachments/assets/aeec10c1-4bc0-464f-b672-431bcaaf4067)
 
-![image](https://github.com/user-attachments/assets/e07c19fe-2978-4634-bd71-8649d1486ebf)
+![image](https://github.com/user-attachments/assets/35273ea2-0f6d-400e-8bd4-86e0ff913f5a)
 
 ## Module 1 =>
 
