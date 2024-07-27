@@ -8,8 +8,6 @@
 
 ![image](https://github.com/user-attachments/assets/aeec10c1-4bc0-464f-b672-431bcaaf4067)
 
-![image](https://github.com/user-attachments/assets/35273ea2-0f6d-400e-8bd4-86e0ff913f5a)
-
 ## Module 1 =>
 
 ### Course Introduction
@@ -43,5 +41,7 @@
 - []()
 - []()
 
+<img align="center" src="https://github.com/user-attachments/assets/35273ea2-0f6d-400e-8bd4-86e0ff913f5a"/>
+![image](https://github.com/user-attachments/assets/35273ea2-0f6d-400e-8bd4-86e0ff913f5a)
 
 ![9233841_4120164](https://github.com/user-attachments/assets/e182d0f4-0e38-4c4f-ada1-77bae4bd9085)
