@@ -12,7 +12,7 @@
 
 ![image](https://github.com/user-attachments/assets/aeec10c1-4bc0-464f-b672-431bcaaf4067)
 
-## Module 1 =>
+## Module 1 ->
 
 ### Course Introduction
 
@@ -28,7 +28,7 @@
 
 ---
 
-## Module 2 =>
+## Module 2 ->
 
 - []()
 - []()
@@ -38,7 +38,7 @@
 
 ---
 
-## Module 3 =>
+## Module 3 ->
 
 - []()
 - []()
