@@ -67,4 +67,6 @@
 - []()
 - []()
 
-![image](https://github.com/user-attachments/assets/e654a003-d2c7-4926-9c4b-0f96247c38e3)
+<div align="center">
+<img src="https://github.com/user-attachments/assets/e654a003-d2c7-4926-9c4b-0f96247c38e3" alt="App" width="430"/>
+</div>
