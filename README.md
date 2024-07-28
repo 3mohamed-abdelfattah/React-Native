@@ -8,7 +8,7 @@
 <img src="https://github.com/user-attachments/assets/8315372a-4f0f-4ea0-af9f-d93e2ee63478" alt="App" width="330"/>
 <img src="https://github.com/user-attachments/assets/b72c7eec-1e96-40ff-b499-0676f5144f44" alt="App" width="330"/>
 
-
+<hr/>
 - [Module 1](#module-1-)
 - [Module 2](#module-2-)
 - [Module 3](#module-3-)
