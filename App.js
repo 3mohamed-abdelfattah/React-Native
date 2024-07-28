@@ -1,10 +1,10 @@
-import { Text, View } from 'react-native';
+import { Text, View, StyleSheet } from 'react-native';
 
 
 export default function App() {
   return (
-    <View>
-      <Text>Hello World!!</Text>
+    <View style={styles.container}>
+      <Text style={styles.paragraph}>Hello World!!</Text>
     </View>
   );
 }
