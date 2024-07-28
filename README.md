@@ -18,7 +18,8 @@
 - [Module 3](#module-3-)
 
 <div align="center">
-![image](https://github.com/user-attachments/assets/aeec10c1-4bc0-464f-b672-431bcaaf4067)
+  
+  ![image](https://github.com/user-attachments/assets/aeec10c1-4bc0-464f-b672-431bcaaf4067)
 </div>
 
 ## Module 1 ->
