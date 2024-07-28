@@ -36,6 +36,12 @@
 - [First steps - Expo Documentation](https://docs.expo.dev/tutorial/planning/)
 - [What is Expo – Expo Documentation](https://docs.expo.dev/introduction/expo/)
 
+### React Native Components
+
+- [Core components and APIs · React Native](https://reactnative.dev/docs/components-and-apis)
+- [Core components and Native components · React Native](https://reactnative.dev/docs/intro-react-native-components)
+- [Using libraries · React Native](https://reactnative.dev/docs/libraries)
+
 ---
 
 ## Module 2 ->
