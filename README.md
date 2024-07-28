@@ -26,6 +26,12 @@
 - [CocoaPods Guides - Getting Started](https://guides.cocoapods.org/using/getting-started.html)
 - [Setting up the development environment](https://reactnative.dev/docs/environment-setup)
 
+### Introduction to React Native
+
+- [Setting up the development environment · React Native](https://reactnative.dev/docs/environment-setup)
+- [First steps - Expo Documentation](https://docs.expo.dev/tutorial/planning/)
+- [What is Expo – Expo Documentation](https://docs.expo.dev/introduction/expo/)
+
 ---
 
 ## Module 2 ->
