@@ -48,6 +48,12 @@
 - [Core components and Native components · React Native](https://reactnative.dev/docs/intro-react-native-components)
 - [Using libraries · React Native](https://reactnative.dev/docs/libraries)
 
+### Views, Text and Scrollable components
+
+- [View · React Native](https://reactnative.dev/docs/view)
+- [Text · React Native](https://reactnative.dev/docs/text)
+- [ScrollView · React Native](https://reactnative.dev/docs/scrollview)
+
 ---
 
 ## Module 2 ->
