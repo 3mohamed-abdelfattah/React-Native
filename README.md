@@ -54,6 +54,12 @@
 - [Text · React Native](https://reactnative.dev/docs/text)
 - [ScrollView · React Native](https://reactnative.dev/docs/scrollview)
 
+### Styling components
+
+- [StyleSheet · React Native](https://reactnative.dev/docs/stylesheet)
+- [Style · React Native](https://reactnative.dev/docs/style)
+- [Color Reference · React Native](https://reactnative.dev/docs/colors)
+
 ---
 
 ## Module 2 ->
