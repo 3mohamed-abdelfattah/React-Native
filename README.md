@@ -70,6 +70,13 @@
 - [Expo Documentation](https://docs.expo.dev/versions/latest/react-native/flatlist/)
 - [ScrollView · React Native](https://reactnative.dev/docs/scrollview)
 
+### Render Large Lists with SectionList
+
+- []()
+- []()
+- []()
+- []()
+
 ---
 
 ## Module 3 ->
