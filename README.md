@@ -72,10 +72,8 @@
 
 ### Render Large Lists with SectionList
 
-- []()
-- []()
-- []()
-- []()
+- [SectionList · React Native](https://reactnative.dev/docs/sectionlist)
+- [Using List Views · React Native](https://reactnative.dev/docs/using-a-listview)
 
 ---
 
