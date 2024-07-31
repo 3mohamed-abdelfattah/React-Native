@@ -64,11 +64,11 @@
 
 ## Module 2 ->
 
-- []()
-- []()
-- []()
-- []()
+### Render large lists with FlatList
 
+- [FlatList · React Native](https://reactnative.dev/docs/flatlist)
+- [Expo Documentation](https://docs.expo.dev/versions/latest/react-native/flatlist/)
+- [ScrollView · React Native](https://reactnative.dev/docs/scrollview)
 
 ---
 
