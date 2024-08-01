@@ -81,6 +81,13 @@
 - [KeyboardAvoidingView · React Native](https://reactnative.dev/docs/keyboardavoidingview)
 - [keyboardDismissMode · React Native](https://reactnative.dev/docs/scrollview#keyboarddismissmode)
 
+### Working with TextInput components
+
+- [onFocus · React Native](https://reactnative.dev/docs/textinput#onfocus)
+- [onBlur · React Native](https://reactnative.dev/docs/textinput#onblur)
+- [clearButtonMode · React Native](https://reactnative.dev/docs/textinput#clearbuttonmode-ios)
+- [A visual guide to the React Native TextInput keyboardType prop values](https://lefkowitz.me/visual-guide-to-react-native-textinput-keyboardtype-options/)
+
 ---
 
 ## Module 3 ->
