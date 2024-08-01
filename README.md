@@ -75,6 +75,12 @@
 - [SectionList · React Native](https://reactnative.dev/docs/sectionlist)
 - [Using List Views · React Native](https://reactnative.dev/docs/using-a-listview)
 
+### Accept user input
+
+- [TextInput · React Native](https://reactnative.dev/docs/textinput)
+- [KeyboardAvoidingView · React Native](https://reactnative.dev/docs/keyboardavoidingview)
+- [keyboardDismissMode · React Native](https://reactnative.dev/docs/scrollview#keyboarddismissmode)
+
 ---
 
 ## Module 3 ->
