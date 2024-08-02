@@ -106,9 +106,9 @@ Note that React Native features several other core components that also respond 
 
 ### Images in React Native
 
-- []()
-- []()
-- []()
+- [Image · React Native](https://reactnative.dev/docs/image)
+- [ImageBackground · React Native](https://reactnative.dev/docs/imagebackground)
+- [Image Style Props · React Native](https://reactnative.dev/docs/image-style-props)
 
 ---
 
