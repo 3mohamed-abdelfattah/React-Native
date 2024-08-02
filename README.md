@@ -4,10 +4,9 @@
 
 ## Cross  Platform App
 ![image](https://github.com/user-attachments/assets/7274809e-740e-47a9-89db-71b2b9bd0c8e)
-![image](https://github.com/user-attachments/assets/9ec4dd7d-323f-421d-8d5c-73e7d51df308)
 <div align="center">
-<img src="https://github.com/user-attachments/assets/8315372a-4f0f-4ea0-af9f-d93e2ee63478" alt="App" width="330"/>
-<img src="https://github.com/user-attachments/assets/b72c7eec-1e96-40ff-b499-0676f5144f44" alt="App" width="330"/>
+<img src="https://github.com/user-attachments/assets/8315372a-4f0f-4ea0-af9f-d93e2ee63478" alt="App" width="250"/>
+<img src="https://github.com/user-attachments/assets/b72c7eec-1e96-40ff-b499-0676f5144f44" alt="App" width="250"/>
 </div>
 
 
