@@ -94,10 +94,14 @@
 
 ### Pressable Component
 
-- []()
-- []()
-- []()
-- []()
+- [Pressable · React Native](https://reactnative.dev/docs/pressable)
+  
+Note that React Native features several other core components that also respond to a press interaction, which may be more suitable for certain use cases. You can become more familiar with them by accessing these links:
+
+- [Button · React Native](https://reactnative.dev/docs/button)
+- [TouchableHighlight· React Native](https://reactnative.dev/docs/touchablehighlight)
+- [TouchableOpacity· React Native](https://reactnative.dev/docs/touchableopacity)
+- [TouchableWithoutFeedback· React Native](https://reactnative.dev/docs/touchablewithoutfeedback)
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/e654a003-d2c7-4926-9c4b-0f96247c38e3" alt="App" width="430"/>
