@@ -7,20 +7,7 @@
 <img src="https://github.com/user-attachments/assets/e654a003-d2c7-4926-9c4b-0f96247c38e3" alt="App" width="430"/>
 </div>
 
-
 <hr/>
-
-## Table of Contents
-
-- [Module-1](#module-1-)
-- [Module-2](#module-2-)
-- [Module-3](#module-3-)
-- [Module-4](#module-4-)
-
-<div align="center">
-  
-  ![image](https://github.com/user-attachments/assets/aeec10c1-4bc0-464f-b672-431bcaaf4067)
-</div>
 
 ## Module-1 ->
 
@@ -123,4 +110,8 @@ Note that React Native features several other core components that also respond 
 - []()
 - []()
 
-
+<div align="center">
+  
+  ![image](https://github.com/user-attachments/assets/aeec10c1-4bc0-464f-b672-431bcaaf4067)
+  
+</div>
