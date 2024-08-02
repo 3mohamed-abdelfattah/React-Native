@@ -3,10 +3,8 @@
 ![image](https://github.com/user-attachments/assets/ad54df04-ca6a-42cd-9a8c-c15b4a499c13)
 
 ## Cross  Platform App
-![image](https://github.com/user-attachments/assets/7274809e-740e-47a9-89db-71b2b9bd0c8e)
 <div align="center">
-<img src="https://github.com/user-attachments/assets/8315372a-4f0f-4ea0-af9f-d93e2ee63478" alt="App" width="250"/>
-<img src="https://github.com/user-attachments/assets/b72c7eec-1e96-40ff-b499-0676f5144f44" alt="App" width="250"/>
+<img src="https://github.com/user-attachments/assets/e654a003-d2c7-4926-9c4b-0f96247c38e3" alt="App" width="430"/>
 </div>
 
 
@@ -24,7 +22,7 @@
   ![image](https://github.com/user-attachments/assets/aeec10c1-4bc0-464f-b672-431bcaaf4067)
 </div>
 
-## Module 1 ->
+## Module-1 ->
 
 ### Course Introduction
 
@@ -64,7 +62,7 @@
 
 ---
 
-## Module 2 ->
+## Module-2 ->
 
 ### Render large lists with FlatList
 
@@ -92,7 +90,7 @@
 
 ---
 
-## Module 3 ->
+## Module-3 ->
 
 ### Pressable Component
 
@@ -120,11 +118,9 @@ Note that React Native features several other core components that also respond 
 
 ---
 
-## Module 4 ->
+## Module-4 ->
 
 - []()
 - []()
 
-<div align="center">
-<img src="https://github.com/user-attachments/assets/e654a003-d2c7-4926-9c4b-0f96247c38e3" alt="App" width="430"/>
-</div>
+
