@@ -110,6 +110,13 @@ Note that React Native features several other core components that also respond 
 - [ImageBackground · React Native](https://reactnative.dev/docs/imagebackground)
 - [Image Style Props · React Native](https://reactnative.dev/docs/image-style-props)
 
+### Hooks in React Native
+
+- [GitHub - react-native-community/hooks: React Native APIs turned into React Hooks for use in functional React components](https://github.com/react-native-community/hooks)
+- [useColorScheme · React Native](https://reactnative.dev/docs/usecolorscheme)
+- [useWindowDimensions · React Native](https://reactnative.dev/docs/usewindowdimensions)
+- [Introducing Hooks – React (reactjs.org)](https://reactjs.org/docs/hooks-intro.html)
+
 ---
 
 ## Module 4 ->
