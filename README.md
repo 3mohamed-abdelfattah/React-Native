@@ -1,4 +1,3 @@
-![9233841_4120164](https://github.com/user-attachments/assets/e182d0f4-0e38-4c4f-ada1-77bae4bd9085)
 
 ![image](https://github.com/user-attachments/assets/ad54df04-ca6a-42cd-9a8c-c15b4a499c13)
 
@@ -120,11 +119,16 @@ Note that React Native features several other core components that also respond 
 
 ### Tab Navigation
 
-- []()
+- [Tab navigation | React Navigation](https://reactnavigation.org/docs/tab-based-navigation)
+- [Bottom Tabs Navigator | React Navigation](https://reactnavigation.org/docs/bottom-tab-navigator)
+- [Material Bottom Tabs Navigator | React Navigation](https://reactnavigation.org/docs/material-bottom-tab-navigator)
+- [Material Top Tabs Navigator | React Navigation](https://reactnavigation.org/docs/material-top-tab-navigator/)
 
 ### Drawer Navigation
 
-- []()
+- [Drawer navigation | React Navigation](https://reactnavigation.org/docs/drawer-based-navigation/)
+- [Drawer Navigator | React Navigation](https://reactnavigation.org/docs/drawer-navigator)
+- [Multiple drawers | React Navigation](https://reactnavigation.org/docs/multiple-drawers)
 
 <div align="center">
   
