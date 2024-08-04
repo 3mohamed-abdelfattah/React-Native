@@ -114,9 +114,16 @@ Note that React Native features several other core components that also respond 
 - [Troubleshooting | React Navigation](https://reactnavigation.org/docs/troubleshooting)
 
 ### Moving between screens
+- [Moving between screens | React Navigation](https://reactnavigation.org/docs/navigating)
+- [Passing parameters to routes | React Navigation](https://reactnavigation.org/docs/params)
+- [Configuring the header bar | React Navigation](https://reactnavigation.org/docs/headers)
+
+### Tab Navigation
+
 - []()
-- []()
-- []()
+
+### Drawer Navigation
+
 - []()
 
 <div align="center">
